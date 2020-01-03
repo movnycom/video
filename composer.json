@@ -1,0 +1,6 @@
+{
+    "name": "root/heroku",
+    "require":{
+        "ext-mbstring":"*"
+}
+}
